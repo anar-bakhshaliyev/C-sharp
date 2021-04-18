@@ -1,0 +1,13 @@
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojAssemblyReference.cache
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Forms.ClassroomForm.resources
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Forms.Dashboard.resources
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Forms.GroupForm.resources
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Forms.StudentForm.resources
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\07.09.2019\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb

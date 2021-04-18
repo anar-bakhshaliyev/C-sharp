@@ -1,7 +1,0 @@
-C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\23.08.2019\WT_Template\WT_Task1\bin\Debug\WT_Task1.exe.config
-C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\23.08.2019\WT_Template\WT_Task1\bin\Debug\WT_Task1.exe
-C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\23.08.2019\WT_Template\WT_Task1\bin\Debug\WT_Task1.pdb
-C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\23.08.2019\WT_Template\WT_Task1\obj\Debug\WT_Task1.csprojAssemblyReference.cache
-C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\23.08.2019\WT_Template\WT_Task1\obj\Debug\WT_Task1.csproj.CoreCompileInputs.cache
-C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\23.08.2019\WT_Template\WT_Task1\obj\Debug\WT_Task1.exe
-C:\Users\Anar\Documents\Code Academy (kursi)\C#\Homeworks\23.08.2019\WT_Template\WT_Task1\obj\Debug\WT_Task1.pdb
